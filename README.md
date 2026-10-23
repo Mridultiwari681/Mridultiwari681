@@ -1,3 +1,17 @@
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mridultiwari681&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mridultiwari681&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mridultiwari681&theme=tokyonight)
+
+---
+⭐ Thanks for visiting my profile!
 <p align="center">
   <img src="./banner.jpeg" alt="Mridul Tiwari - Developer Banner" width="100%">
 </p>
