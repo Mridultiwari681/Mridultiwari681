@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.jpeg" alt="Mridul Tiwari - Developer Banner" width="100%">
+  <img src="./banner.jpeg" alt="Mridul Tiwari - Developer Banner" width="100%">
 </p>
 # Hi, I'm Mridul Tiwari! 👋
 
