@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mridul Tiwari! 👋
 
-<!--
-**Mridultiwari681/Mridultiwari681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student  
+🏫 Babu Banarasi Das University  
+💻 Interested in Java, Web Development, and Cloud Computing
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I am a third-year Computer Science Engineering student.
+- I enjoy learning programming and solving coding problems.
+- I am improving my skills in Java, HTML, CSS, and JavaScript.
+- I am exploring Cloud Development and Software Engineering opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Java, C++, HTML, CSS, JavaScript
+- **Core Concepts:** Object-Oriented Programming, Data Structures
+- **Tools:** Git, GitHub, VS Code
+
+## 📂 My Projects
+- [Java Method Overriding](https://github.com/Mridultiwari681/Overriding-program)
+- [Java Array Programs](https://github.com/Mridultiwari681/Arrayprogram)
+- [My Portfolio Website](https://mridultiwari681.github.io/Mridul-portfolio/)
+
+## 🎯 Goals
+- Strengthen my programming fundamentals.
+- Build practical projects.
+- Learn cloud technologies.
+- Prepare for software development internships.
+
+## 📫 Connect With Me
+- **GitHub:** [Mridultiwari681](https://github.com/Mridultiwari681)
+- **Email:** mt2086151@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
