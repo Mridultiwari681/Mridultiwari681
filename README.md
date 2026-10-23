@@ -1,3 +1,6 @@
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mridultiwari681&theme=tokyonight&no-frame=true&margin-w=10)
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mridultiwari681&show_icons=true&theme=tokyonight)
