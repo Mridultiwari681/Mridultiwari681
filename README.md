@@ -1,3 +1,22 @@
+## 🚀 Featured Projects
+
+### ☕ Java Method Overriding
+A Java project demonstrating inheritance, abstraction, and method overriding.
+
+🔗 [View Project](https://github.com/Mridultiwari681/Overriding-program)
+
+### 📚 Java Array Programs
+A collection of Java programs to practice arrays and improve problem-solving skills.
+
+🔗 [View Project](https://github.com/Mridultiwari681/Arrayprogram)
+
+### 🌐 My Portfolio Website
+My personal portfolio showcasing my skills, projects, and learning journey.
+
+🔗 [Visit Portfolio](https://mridultiwari681.github.io/Mridul-portfolio/)
+
+---
+🎯 Currently learning Java, Web Development, and Cloud Computing.
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mridultiwari681&theme=tokyonight&no-frame=true&margin-w=10)
